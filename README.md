@@ -1,10 +1,13 @@
 # DataStructuresAndAlgorithms
 Repository with number different datastructures and algorithms
 
-Algorithms
+**Algorithms**
 
 Merge Sort
 Binary Search Tree
 
-Datastructs
+**Datastructs**
+
+Linked List
+
 Buffer + stack
